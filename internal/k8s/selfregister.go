@@ -32,7 +32,7 @@ import (
 	admissionregistrationv1 "k8s.io/client-go/kubernetes/typed/admissionregistration/v1"
 	"k8s.io/client-go/rest"
 
-	"github.com/networkservicemesh/cmd-admission-webhook/internal/config"
+	"github.com/NikitaSkrynnik/cmd-admission-webhook/internal/config"
 )
 
 // AdmissionWebhookRegisterClient is a simple client that can register and unregister MutatingWebhookConfiguration based on config.Config

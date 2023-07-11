@@ -50,11 +50,11 @@ import (
 	"k8s.io/client-go/kubernetes"
 	psa "k8s.io/pod-security-admission/api"
 
-	"github.com/networkservicemesh/cmd-admission-webhook/internal/config"
-	"github.com/networkservicemesh/cmd-admission-webhook/internal/k8s"
-	kubeutils "github.com/networkservicemesh/sdk-k8s/pkg/tools/k8s"
-	"github.com/networkservicemesh/sdk/pkg/tools/nsurl"
-	"github.com/networkservicemesh/sdk/pkg/tools/opentelemetry"
+	"github.com/NikitaSkrynnik/cmd-admission-webhook/internal/config"
+	"github.com/NikitaSkrynnik/cmd-admission-webhook/internal/k8s"
+	kubeutils "github.com/NikitaSkrynnik/sdk-k8s/pkg/tools/k8s"
+	"github.com/NikitaSkrynnik/sdk/pkg/tools/nsurl"
+	"github.com/NikitaSkrynnik/sdk/pkg/tools/opentelemetry"
 )
 
 var deserializer = serializer.NewCodecFactory(runtime.NewScheme()).UniversalDeserializer()
