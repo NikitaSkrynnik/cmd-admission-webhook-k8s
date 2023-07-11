@@ -3,6 +3,8 @@ module github.com/NikitaSkrynnik/cmd-admission-webhook
 go 1.20
 
 require (
+	github.com/NikitaSkrynnik/sdk v0.5.1-0.20230711090343-6d55d1862089
+	github.com/NikitaSkrynnik/sdk-k8s v0.0.0-20230711090605-da8ab9ccb40c
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/labstack/echo/v4 v4.6.1
 	go.uber.org/zap v1.19.0
@@ -14,7 +16,7 @@ require (
 )
 
 require (
-	github.com/NikitaSkrynnik/sdk v0.5.1-0.20230711085827-4db638c6c620 // indirect
+	github.com/NikitaSkrynnik/api v1.0.1-0.20230711064101-51396a9946fc // indirect
 	github.com/imdario/mergo v0.3.6 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
