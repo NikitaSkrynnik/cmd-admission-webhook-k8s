@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/NikitaSkrynnik/sdk v0.5.1-0.20230712060804-d605cde9ae50
-	github.com/NikitaSkrynnik/sdk-k8s v0.0.0-20230711090605-da8ab9ccb40c
+	github.com/NikitaSkrynnik/sdk-k8s v0.0.0-20230712060953-77509f81aebd
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/labstack/echo/v4 v4.6.1
 	go.uber.org/zap v1.19.0
