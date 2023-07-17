@@ -3,7 +3,7 @@ module github.com/NikitaSkrynnik/cmd-admission-webhook
 go 1.20
 
 require (
-	github.com/NikitaSkrynnik/sdk v0.5.1-0.20230717053447-addad26ecd77
+	github.com/NikitaSkrynnik/sdk v0.5.1-0.20230717061214-871af1d0bcca
 	github.com/NikitaSkrynnik/sdk-k8s v0.0.0-20230714082032-0016f3342787
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/labstack/echo/v4 v4.6.1
