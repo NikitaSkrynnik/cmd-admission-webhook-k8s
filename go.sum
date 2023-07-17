@@ -37,8 +37,8 @@ github.com/NikitaSkrynnik/api v1.0.1-0.20230711064101-51396a9946fc h1:yMHA//UiNx
 github.com/NikitaSkrynnik/api v1.0.1-0.20230711064101-51396a9946fc/go.mod h1:6va68ed+AyiYRSNK/RQ91XEZdYHDfb6xVyBzjVhlGVs=
 github.com/NikitaSkrynnik/sdk v0.5.1-0.20230717061214-871af1d0bcca h1:tHuzvMduJQSRdwSfOt4n1NEJu95l8C0BlhagWj5fneY=
 github.com/NikitaSkrynnik/sdk v0.5.1-0.20230717061214-871af1d0bcca/go.mod h1:zmGb/Hc6WN95sfc0vf5cz6IdbsaY/t76jtFlaMnIrB8=
-github.com/NikitaSkrynnik/sdk-k8s v0.0.0-20230714082032-0016f3342787 h1:Qg3pByvFp5nCawmw8QT2ODfpscuju3zmKF8Gi5mmxuw=
-github.com/NikitaSkrynnik/sdk-k8s v0.0.0-20230714082032-0016f3342787/go.mod h1:Wfo1Bm3t+NsAAPwfPJdNBfpRMsd17giduQs5jHmkjdY=
+github.com/NikitaSkrynnik/sdk-k8s v0.0.0-20230717061422-15fbea23fec7 h1:POh7IyR9bYG4ki5GU2jpSjYhxczVXBsSC49RkkB0mdQ=
+github.com/NikitaSkrynnik/sdk-k8s v0.0.0-20230717061422-15fbea23fec7/go.mod h1:4VZNCrtwycnLaRcJDuRl3xo5NZmDhWKssP061NrihfA=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/PuerkitoBio/purell v1.1.1 h1:WEQqlqaGbrPkxLJWfBwQmfEAE1Z7ONdDLqrN38tNFfI=
 github.com/PuerkitoBio/purell v1.1.1/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
